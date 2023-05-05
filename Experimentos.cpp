@@ -225,7 +225,7 @@ int Experimentos(int Rango_de_Valores_A, int Rango_de_Valores_B, int filas, int 
 
 
     // Delete de todos los vectores y matrices creados
-/*
+
 
     delete[] tiempo;
 
@@ -280,7 +280,7 @@ int Experimentos(int Rango_de_Valores_A, int Rango_de_Valores_B, int filas, int 
    delete[] QuickSort_sort_cubicOpt;
    delete[] QuickSort_sort_cubicT;
    delete[] QuickSort_sort_strassen;
-*/
+
 
 
     return 0;
